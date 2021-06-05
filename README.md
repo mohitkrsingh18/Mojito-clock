@@ -1,1 +1,1 @@
-# tom-clock
+Mojito clock
